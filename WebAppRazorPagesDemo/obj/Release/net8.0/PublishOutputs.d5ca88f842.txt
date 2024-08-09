@@ -1,0 +1,7 @@
+C:\Users\mchla\OneDrive\Documentos\Proyectos\WebAppRazorPagesDemo\WebAppRazorPagesDemo\obj\Release\net8.0\PubTmp\Out\WebAppRazorPagesDemo.exe
+C:\Users\mchla\OneDrive\Documentos\Proyectos\WebAppRazorPagesDemo\WebAppRazorPagesDemo\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\mchla\OneDrive\Documentos\Proyectos\WebAppRazorPagesDemo\WebAppRazorPagesDemo\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\mchla\OneDrive\Documentos\Proyectos\WebAppRazorPagesDemo\WebAppRazorPagesDemo\obj\Release\net8.0\PubTmp\Out\WebAppRazorPagesDemo.dll
+C:\Users\mchla\OneDrive\Documentos\Proyectos\WebAppRazorPagesDemo\WebAppRazorPagesDemo\obj\Release\net8.0\PubTmp\Out\WebAppRazorPagesDemo.deps.json
+C:\Users\mchla\OneDrive\Documentos\Proyectos\WebAppRazorPagesDemo\WebAppRazorPagesDemo\obj\Release\net8.0\PubTmp\Out\WebAppRazorPagesDemo.runtimeconfig.json
+C:\Users\mchla\OneDrive\Documentos\Proyectos\WebAppRazorPagesDemo\WebAppRazorPagesDemo\obj\Release\net8.0\PubTmp\Out\WebAppRazorPagesDemo.pdb

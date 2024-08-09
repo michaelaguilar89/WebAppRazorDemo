@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3xVKxcPv0pM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mchla\\OneDrive\\Documentos\\Proyectos\\WebAppRazorPagesDemo\\WebAppRazorPagesDemo\\WebAppRazorPagesDemo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mchla\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.20.1\\microsoft.visualstudio.azure.containers.tools.targets.1.20.1.nupkg.sha512"
+  ],
+  "logs": []
+}
